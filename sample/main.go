@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	pm "github.com/secondarykey/powermate"
+	pm "github.com/ikascrew/powermate"
 )
 
 func main() {
